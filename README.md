@@ -3,6 +3,8 @@ CUDA program for an image edge detection using Roberts Cross operator.
 
 Uses CMAKE, SPDLOG & STB headers.
 
+![alt text](https://github.com/dotBlueShoes/RobertsCross/blob/master/extras/example.jpg)
+
 ---
 
 ### Preperation
