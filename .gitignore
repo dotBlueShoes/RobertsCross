@@ -1,0 +1,11 @@
+# Enviroment
+.vscode/
+/.vs/
+
+# Builds
+build/
+x64/
+
+*.zip
+*.exe
+output.jpg
